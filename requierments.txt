@@ -1,0 +1,1 @@
+os,base64,base64,kivy,pycryptodome
